@@ -11,3 +11,13 @@
 *DURATION*:4 WEEKS
 
 *MENTOR*:NEELA SANTHOSH
+
+*OUTPUT*:
+✅ File written successfully.
+Original File Content:
+Hello, this is a test file.
+Java is fun to learn!
+🔁 File modified successfully: 'Java' ➝ 'Python'
+Modified File Content:
+Hello, this is a test file.
+Python is fun to learn!
